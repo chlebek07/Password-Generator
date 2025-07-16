@@ -1,6 +1,8 @@
 # Password-Generator
-- 13-character (strong) password generator in python
+13-character (strong) password generator in python
+
 How to use?
+
 - Run the script.
 - Press ENTER to generate a new random password.
 - Type esc to exit.
